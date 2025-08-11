@@ -9,3 +9,6 @@ Use below command to serve static files using a python server
 
 **python3 -m http.server 3000**
 
+#### Reference
+
+- https://medium.com/@nishada/securing-a-javascript-app-using-keycloak-263fdbbc9d02
